@@ -1,0 +1,3 @@
+13:07:52.708 [main] INFO  resources.Base - driver is initialized
+13:08:02.888 [main] INFO  resources.Base - navigated to Homepage
+13:08:02.965 [main] INFO  resources.Base - successfully validated text messages
